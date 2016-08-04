@@ -1,0 +1,39 @@
+_repo: Two-Years-Before-the-Mast_2055
+_version: 0.0.1
+contributor:
+  author_of_introduction:
+    agent_name: Keyes, Homer Eaton
+    birthdate: 1875
+    deathdate: 1938
+    gutenberg_agent_id: '35227'
+    url: http://www.gutenberg.org/2009/agents/35227
+    wikipedia: http://en.wikipedia.org/wiki/Homer_Eaton_Keyes
+creator:
+  author:
+    agent_name: Dana, Richard Henry
+    alias: Dana, R. H. (Richard Henry)
+    birthdate: 1815
+    deathdate: 1882
+    gutenberg_agent_id: '803'
+    url: http://www.gutenberg.org/2009/agents/803
+    wikipedia: http://en.wikipedia.org/wiki/Richard_Henry_Dana,_Jr.
+description: See also PG#4277 with Introduction and afterword by Richard Henry Dana
+  III
+gutenberg_bookshelf: Harvard Classics
+gutenberg_issued: '2000-02-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '2055'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Dana, Richard Henry, 1815-1882'
+- !lcsh 'Seafaring life'
+- !lcc 'G'
+- !lcsh 'Voyages and travels'
+- !lcsh 'Sailors'
+- GITenberg
+title: Two Years Before the Mast
+url: http://www.gutenberg.org/ebooks/2055

@@ -1,5 +1,5 @@
 _repo: Two-Years-Before-the-Mast_2055
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   author_of_introduction:
     agent_name: Keyes, Homer Eaton
@@ -8,6 +8,9 @@ contributor:
     gutenberg_agent_id: '35227'
     url: http://www.gutenberg.org/2009/agents/35227
     wikipedia: http://en.wikipedia.org/wiki/Homer_Eaton_Keyes
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Dana, Richard Henry
@@ -19,6 +22,8 @@ creator:
     wikipedia: http://en.wikipedia.org/wiki/Richard_Henry_Dana,_Jr.
 description: See also PG#4277 with Introduction and afterword by Richard Henry Dana
   III
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/2055#Two-Years-Before-the-Mast
 gutenberg_bookshelf: Harvard Classics
 gutenberg_issued: '2000-02-01'
 gutenberg_type: Text
